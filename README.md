@@ -22,3 +22,9 @@ algorithm. Show your work.
 the array sizes of 100,1000,10000,100000 with using your 
 student id as a seed. Run your solution and note the running 
 times. Show your results.
+
+Note: 
+
+For the detailed report see `algo-assignment-report-pdf`
+
+And for the code itself see `heapSortK.java`
