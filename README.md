@@ -25,6 +25,6 @@ times. Show your results.
 
 Note: 
 
-For the detailed report see `algo-assignment-report-pdf`
+For the detailed report see `algo-assignment-report.pdf`
 
 And for the code itself see `heapSortK.java`
